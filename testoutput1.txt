@@ -1,0 +1,341 @@
+jovyan@jupyter-dion:~/workshops/ass2_testing/submission$ make
+gcc -Wall -c map2.c -lm
+gcc -Wall -o map1 map1.c tree1.o leaf.o row.o -g -lm 
+gcc -Wall -o map2 map2.c tree2.o leaf.o row.o -g -lm 
+./map1 CLUEdata2018_random.csv output1-Random.txt < input.txt
+**********THIS IS A MAP1 NEAREST NODE**********
+**********THIS IS A NEW LOCATION**********
+COUNT IS 14
+144.9566201 -37.79455742 --> Industry (ANZSIC4) code: 5101 || Trading Name: Parkville Post Office || Location:  (-37.79455742, 144.9566201) ||
+
+**********THIS IS A NEW LOCATION**********
+COUNT IS 4
+144.9519423 -37.78462231 --> Industry (ANZSIC4) code: 4511 || Trading Name: Lakeside Bistro And Function Centre || Location:  (-37.78462231, 144.9519423) ||
+
+144.9519423 -37.78462231 --> Industry (ANZSIC4) code: 8921 || Trading Name: Zoos Victoria || Location:  (-37.78462231, 144.9519423) ||
+
+144.9519423 -37.78462231 --> Industry (ANZSIC4) code: 4512 || Trading Name: Plaza Kiosk || Location:  (-37.78462231, 144.9519423) ||
+
+144.9519423 -37.78462231 --> Industry (ANZSIC4) code: 4512 || Trading Name: Village Kiosk || Location:  (-37.78462231, 144.9519423) ||
+
+144.9519423 -37.78462231 --> Industry (ANZSIC4) code: 4512 || Trading Name: Meerkat Manor || Location:  (-37.78462231, 144.9519423) ||
+
+144.9519423 -37.78462231 --> Industry (ANZSIC4) code: 4512 || Trading Name: Wild Dog || Location:  (-37.78462231, 144.9519423) ||
+
+144.9519423 -37.78462231 --> Industry (ANZSIC4) code: 4512 || Trading Name: Giraffe Cafe || Location:  (-37.78462231, 144.9519423) ||
+
+144.9519423 -37.78462231 --> Industry (ANZSIC4) code: 4512 || Trading Name: Zoo Bakery || Location:  (-37.78462231, 144.9519423) ||
+
+**********THIS IS A NEW LOCATION**********
+COUNT IS 4
+144.9519423 -37.78462231 --> Industry (ANZSIC4) code: 4511 || Trading Name: Lakeside Bistro And Function Centre || Location:  (-37.78462231, 144.9519423) ||
+
+144.9519423 -37.78462231 --> Industry (ANZSIC4) code: 8921 || Trading Name: Zoos Victoria || Location:  (-37.78462231, 144.9519423) ||
+
+144.9519423 -37.78462231 --> Industry (ANZSIC4) code: 4512 || Trading Name: Plaza Kiosk || Location:  (-37.78462231, 144.9519423) ||
+
+144.9519423 -37.78462231 --> Industry (ANZSIC4) code: 4512 || Trading Name: Village Kiosk || Location:  (-37.78462231, 144.9519423) ||
+
+144.9519423 -37.78462231 --> Industry (ANZSIC4) code: 4512 || Trading Name: Meerkat Manor || Location:  (-37.78462231, 144.9519423) ||
+
+144.9519423 -37.78462231 --> Industry (ANZSIC4) code: 4512 || Trading Name: Wild Dog || Location:  (-37.78462231, 144.9519423) ||
+
+144.9519423 -37.78462231 --> Industry (ANZSIC4) code: 4512 || Trading Name: Giraffe Cafe || Location:  (-37.78462231, 144.9519423) ||
+
+144.9519423 -37.78462231 --> Industry (ANZSIC4) code: 4512 || Trading Name: Zoo Bakery || Location:  (-37.78462231, 144.9519423) ||
+
+**********THIS IS A NEW LOCATION**********
+COUNT IS 8
+144.9713492 -37.81434446 --> Industry (ANZSIC4) code: 6419 || Trading Name: Dunkeld Pastoral || Location:  (-37.81434446, 144.9713492) ||
+
+144.9713492 -37.81434446 --> Industry (ANZSIC4) code: 4259 || Trading Name: Hermes Paris || Location:  (-37.81434446, 144.9713492) ||
+
+144.9713492 -37.81434446 --> Industry (ANZSIC4) code: 8531 || Trading Name: Oralmax Surgeons || Location:  (-37.81434446, 144.9713492) ||
+
+144.9713492 -37.81434446 --> Industry (ANZSIC4) code: 8520 || Trading Name: Australian Clinical Labs || Location:  (-37.81434446, 144.9713492) ||
+
+144.9713492 -37.81434446 --> Industry (ANZSIC4) code: 9559 || Trading Name: Kimberley Foundation Australia Limited || Location:  (-37.81434446, 144.9713492) ||
+
+144.9713492 -37.81434446 --> Industry (ANZSIC4) code: 6962 || Trading Name: CPR Communications & Public Relations || Location:  (-37.81434446, 144.9713492) ||
+
+144.9713492 -37.81434446 --> Industry (ANZSIC4) code: 4520 || Trading Name: Harley House || Location:  (-37.81434446, 144.9713492) ||
+
+144.9713492 -37.81434446 --> Industry (ANZSIC4) code: 8511 || Trading Name: Collins Place Medical Clinic || Location:  (-37.81434446, 144.9713492) ||
+
+**********THIS IS A NEW LOCATION**********
+COUNT IS 8
+144.9733888 -37.79303042 --> Industry (ANZSIC4) code: 4520 || Trading Name: Dan O'Connell Hotel || Location:  (-37.79303042, 144.9733888) ||
+
+./map1 CLUEdata2018_median.csv output1-Median.txt < input.txt
+**********THIS IS A MAP1 NEAREST NODE**********
+**********THIS IS A NEW LOCATION**********
+COUNT IS 12
+144.9753504 -37.7932694 --> Industry (ANZSIC4) code: 9411 || Trading Name: Celepci Brothers || Location:  (-37.7932694, 144.9753504) ||
+
+144.9753504 -37.7932694 --> Industry (ANZSIC4) code: 4000 || Trading Name: National Lube Carlton || Location:  (-37.7932694, 144.9753504) ||
+
+**********THIS IS A NEW LOCATION**********
+COUNT IS 7
+144.9566201 -37.79455742 --> Industry (ANZSIC4) code: 5101 || Trading Name: Parkville Post Office || Location:  (-37.79455742, 144.9566201) ||
+
+**********THIS IS A NEW LOCATION**********
+COUNT IS 12
+144.942143 -37.79716006 --> Industry (ANZSIC4) code: 0 || Trading Name: Vacant || Location:  (-37.79716006, 144.942143) ||
+
+144.942143 -37.79716006 --> Industry (ANZSIC4) code: 6010 || Trading Name: Public Record Office Victoria (Victorian Archives) || Location:  (-37.79716006, 144.942143) ||
+
+**********THIS IS A NEW LOCATION**********
+COUNT IS 12
+144.9677611 -37.79751335 --> Industry (ANZSIC4) code: 4252 || Trading Name: Midas || Location:  (-37.79751335, 144.9677611) ||
+
+**********THIS IS A NEW LOCATION**********
+COUNT IS 12
+144.9753504 -37.7932694 --> Industry (ANZSIC4) code: 9411 || Trading Name: Celepci Brothers || Location:  (-37.7932694, 144.9753504) ||
+
+144.9753504 -37.7932694 --> Industry (ANZSIC4) code: 4000 || Trading Name: National Lube Carlton || Location:  (-37.7932694, 144.9753504) ||
+
+./map1 CLUEdata2018_sortx.csv output1-Sortx.txt < input.txt
+**********THIS IS A MAP1 NEAREST NODE**********
+**********THIS IS A NEW LOCATION**********
+COUNT IS 6
+144.9733972 -37.8299839 --> Industry (ANZSIC4) code: 8910 || Trading Name: Shrine of Rememberance || Location:  (-37.8299839, 144.9733972) ||
+
+**********THIS IS A NEW LOCATION**********
+COUNT IS 6
+144.9733972 -37.8299839 --> Industry (ANZSIC4) code: 8910 || Trading Name: Shrine of Rememberance || Location:  (-37.8299839, 144.9733972) ||
+
+**********THIS IS A NEW LOCATION**********
+COUNT IS 6
+144.9733972 -37.8299839 --> Industry (ANZSIC4) code: 8910 || Trading Name: Shrine of Rememberance || Location:  (-37.8299839, 144.9733972) ||
+
+**********THIS IS A NEW LOCATION**********
+COUNT IS 6
+144.9733972 -37.8299839 --> Industry (ANZSIC4) code: 8910 || Trading Name: Shrine of Rememberance || Location:  (-37.8299839, 144.9733972) ||
+
+**********THIS IS A NEW LOCATION**********
+COUNT IS 6
+144.9733972 -37.8299839 --> Industry (ANZSIC4) code: 8910 || Trading Name: Shrine of Rememberance || Location:  (-37.8299839, 144.9733972) ||
+
+
+./map1 CLUEdata2018_random.csv output1-Random.txt < input.txt
+**********THIS IS A MAP1 NEAREST NODE**********
+**********THIS IS A NEW LOCATION**********
+COUNT IS 10
+144.9004092 -37.83554811 --> Industry (ANZSIC4) code: 5211 || Trading Name: Prixcar Services Pty Ltd || Location:  (-37.83554811, 144.9004092) ||
+
+**********THIS IS A NEW LOCATION**********
+COUNT IS 9
+144.9012645 -37.82998456 --> Industry (ANZSIC4) code: 0 || Trading Name: Vacant || Location:  (-37.82998456, 144.9012645) ||
+
+144.9012645 -37.82998456 --> Industry (ANZSIC4) code: 6923 || Trading Name: ACS || Location:  (-37.82998456, 144.9012645) ||
+
+144.9012645 -37.82998456 --> Industry (ANZSIC4) code: 4513 || Trading Name: Smokin' Barrys || Location:  (-37.82998456, 144.9012645) ||
+
+144.9012645 -37.82998456 --> Industry (ANZSIC4) code: 6925 || Trading Name: Intertek || Location:  (-37.82998456, 144.9012645) ||
+
+144.9012645 -37.82998456 --> Industry (ANZSIC4) code: 6631 || Trading Name: Thrust Maritime || Location:  (-37.82998456, 144.9012645) ||
+
+144.9012645 -37.82998456 --> Industry (ANZSIC4) code: 0 || Trading Name: Vacant || Location:  (-37.82998456, 144.9012645) ||
+
+144.9012645 -37.82998456 --> Industry (ANZSIC4) code: 6639 || Trading Name: DJ Warehouse || Location:  (-37.82998456, 144.9012645) ||
+
+144.9012645 -37.82998456 --> Industry (ANZSIC4) code: 9419 || Trading Name: Yamaha City || Location:  (-37.82998456, 144.9012645) ||
+
+144.9012645 -37.82998456 --> Industry (ANZSIC4) code: 0 || Trading Name: Vacant || Location:  (-37.82998456, 144.9012645) ||
+
+144.9012645 -37.82998456 --> Industry (ANZSIC4) code: 4400 || Trading Name: Lancemore Group || Location:  (-37.82998456, 144.9012645) ||
+
+144.9012645 -37.82998456 --> Industry (ANZSIC4) code: 7320 || Trading Name: Gilmores || Location:  (-37.82998456, 144.9012645) ||
+
+144.9012645 -37.82998456 --> Industry (ANZSIC4) code: 9520 || Trading Name: Nelson Bros Funeral Services Pty Ltd || Location:  (-37.82998456, 144.9012645) ||
+
+**********THIS IS A NEW LOCATION**********
+COUNT IS 10
+144.9004092 -37.83554811 --> Industry (ANZSIC4) code: 5211 || Trading Name: Prixcar Services Pty Ltd || Location:  (-37.83554811, 144.9004092) ||
+
+**********THIS IS A NEW LOCATION**********
+COUNT IS 10
+144.9004092 -37.83554811 --> Industry (ANZSIC4) code: 5211 || Trading Name: Prixcar Services Pty Ltd || Location:  (-37.83554811, 144.9004092) ||
+
+**********THIS IS A NEW LOCATION**********
+COUNT IS 8
+144.9017936 -37.82997653 --> Industry (ANZSIC4) code: 0 || Trading Name: Vacant || Location:  (-37.82997653, 144.9017936) ||
+
+144.9017936 -37.82997653 --> Industry (ANZSIC4) code: 1333 || Trading Name: Doyle  Sailmaker || Location:  (-37.82997653, 144.9017936) ||
+
+144.9017936 -37.82997653 --> Industry (ANZSIC4) code: 2439 || Trading Name: Clamp Electrical Industries Pty Ltd || Location:  (-37.82997653, 144.9017936) ||
+
+144.9017936 -37.82997653 --> Industry (ANZSIC4) code: 0 || Trading Name: Vacant || Location:  (-37.82997653, 144.9017936) ||
+
+144.9017936 -37.82997653 --> Industry (ANZSIC4) code: 1332 || Trading Name: Oxley Nets || Location:  (-37.82997653, 144.9017936) ||
+
+144.9017936 -37.82997653 --> Industry (ANZSIC4) code: 3232 || Trading Name: Anova Electrical || Location:  (-37.82997653, 144.9017936) ||
+
+144.9017936 -37.82997653 --> Industry (ANZSIC4) code: 0 || Trading Name: Vacant || Location:  (-37.82997653, 144.9017936) ||
+
+144.9017936 -37.82997653 --> Industry (ANZSIC4) code: 1140 || Trading Name: Greene Street Juice Co || Location:  (-37.82997653, 144.9017936) ||
+
+144.9017936 -37.82997653 --> Industry (ANZSIC4) code: 2392 || Trading Name: McDonald Marine + Industrial || Location:  (-37.82997653, 144.9017936) ||
+
+./map1 CLUEdata2018_median.csv output1-Median.txt < input.txt
+**********THIS IS A MAP1 NEAREST NODE**********
+**********THIS IS A NEW LOCATION**********
+COUNT IS 12
+144.9162632 -37.7938056 --> Industry (ANZSIC4) code: 4511 || Trading Name: Don't Tell Charles Coffee & Desserts || Location:  (-37.7938056, 144.9162632) ||
+
+**********THIS IS A NEW LOCATION**********
+COUNT IS 12
+144.9162632 -37.7938056 --> Industry (ANZSIC4) code: 4511 || Trading Name: Don't Tell Charles Coffee & Desserts || Location:  (-37.7938056, 144.9162632) ||
+
+**********THIS IS A NEW LOCATION**********
+COUNT IS 12
+144.9162632 -37.7938056 --> Industry (ANZSIC4) code: 4511 || Trading Name: Don't Tell Charles Coffee & Desserts || Location:  (-37.7938056, 144.9162632) ||
+
+**********THIS IS A NEW LOCATION**********
+COUNT IS 12
+144.9162632 -37.7938056 --> Industry (ANZSIC4) code: 4511 || Trading Name: Don't Tell Charles Coffee & Desserts || Location:  (-37.7938056, 144.9162632) ||
+
+**********THIS IS A NEW LOCATION**********
+COUNT IS 12
+144.9162632 -37.7938056 --> Industry (ANZSIC4) code: 4511 || Trading Name: Don't Tell Charles Coffee & Desserts || Location:  (-37.7938056, 144.9162632) ||
+
+./map1 CLUEdata2018_sortx.csv output1-Sortx.txt < input.txt
+**********THIS IS A MAP1 NEAREST NODE**********
+**********THIS IS A NEW LOCATION**********
+COUNT IS 1
+144.9004092 -37.83554811 --> Industry (ANZSIC4) code: 5211 || Trading Name: Prixcar Services Pty Ltd || Location:  (-37.83554811, 144.9004092) ||
+
+**********THIS IS A NEW LOCATION**********
+COUNT IS 2
+144.9012645 -37.82998456 --> Industry (ANZSIC4) code: 6925 || Trading Name: Intertek || Location:  (-37.82998456, 144.9012645) ||
+
+144.9012645 -37.82998456 --> Industry (ANZSIC4) code: 0 || Trading Name: Vacant || Location:  (-37.82998456, 144.9012645) ||
+
+144.9012645 -37.82998456 --> Industry (ANZSIC4) code: 6923 || Trading Name: ACS || Location:  (-37.82998456, 144.9012645) ||
+
+144.9012645 -37.82998456 --> Industry (ANZSIC4) code: 0 || Trading Name: Vacant || Location:  (-37.82998456, 144.9012645) ||
+
+144.9012645 -37.82998456 --> Industry (ANZSIC4) code: 0 || Trading Name: Vacant || Location:  (-37.82998456, 144.9012645) ||
+
+144.9012645 -37.82998456 --> Industry (ANZSIC4) code: 9419 || Trading Name: Yamaha City || Location:  (-37.82998456, 144.9012645) ||
+
+144.9012645 -37.82998456 --> Industry (ANZSIC4) code: 9520 || Trading Name: Nelson Bros Funeral Services Pty Ltd || Location:  (-37.82998456, 144.9012645) ||
+
+144.9012645 -37.82998456 --> Industry (ANZSIC4) code: 4400 || Trading Name: Lancemore Group || Location:  (-37.82998456, 144.9012645) ||
+
+144.9012645 -37.82998456 --> Industry (ANZSIC4) code: 7320 || Trading Name: Gilmores || Location:  (-37.82998456, 144.9012645) ||
+
+144.9012645 -37.82998456 --> Industry (ANZSIC4) code: 6639 || Trading Name: DJ Warehouse || Location:  (-37.82998456, 144.9012645) ||
+
+144.9012645 -37.82998456 --> Industry (ANZSIC4) code: 4513 || Trading Name: Smokin' Barrys || Location:  (-37.82998456, 144.9012645) ||
+
+144.9012645 -37.82998456 --> Industry (ANZSIC4) code: 6631 || Trading Name: Thrust Maritime || Location:  (-37.82998456, 144.9012645) ||
+
+**********THIS IS A NEW LOCATION**********
+COUNT IS 3
+144.9013768 -37.83106466 --> Industry (ANZSIC4) code: 0 || Trading Name: Vacant || Location:  (-37.83106466, 144.9013768) ||
+
+**********THIS IS A NEW LOCATION**********
+COUNT IS 3
+144.9016815 -37.82937965 --> Industry (ANZSIC4) code: 0 || Trading Name: Vacant || Location:  (-37.82937965, 144.9016815) ||
+
+**********THIS IS A NEW LOCATION**********
+COUNT IS 4
+144.9017936 -37.82997653 --> Industry (ANZSIC4) code: 1333 || Trading Name: Doyle  Sailmaker || Location:  (-37.82997653, 144.9017936) ||
+
+144.9017936 -37.82997653 --> Industry (ANZSIC4) code: 2439 || Trading Name: Clamp Electrical Industries Pty Ltd || Location:  (-37.82997653, 144.9017936) ||
+
+144.9017936 -37.82997653 --> Industry (ANZSIC4) code: 1332 || Trading Name: Oxley Nets || Location:  (-37.82997653, 144.9017936) ||
+
+144.9017936 -37.82997653 --> Industry (ANZSIC4) code: 3232 || Trading Name: Anova Electrical || Location:  (-37.82997653, 144.9017936) ||
+
+144.9017936 -37.82997653 --> Industry (ANZSIC4) code: 0 || Trading Name: Vacant || Location:  (-37.82997653, 144.9017936) ||
+
+144.9017936 -37.82997653 --> Industry (ANZSIC4) code: 0 || Trading Name: Vacant || Location:  (-37.82997653, 144.9017936) ||
+
+144.9017936 -37.82997653 --> Industry (ANZSIC4) code: 1140 || Trading Name: Greene Street Juice Co || Location:  (-37.82997653, 144.9017936) ||
+
+144.9017936 -37.82997653 --> Industry (ANZSIC4) code: 0 || Trading Name: Vacant || Location:  (-37.82997653, 144.9017936) ||
+
+144.9017936 -37.82997653 --> Industry (ANZSIC4) code: 2392 || Trading Name: McDonald Marine + Industrial || Location:  (-37.82997653, 144.9017936) ||
+
+
+____________________________________________________________________________
+./map1 CLUEdata2018_random.csv output1-Random.txt < input.txt
+**********THIS IS A MAP1 NEAREST NODE**********
+**********THIS IS A NEW LOCATION**********
+COUNT IS 11
+144.9728353 -37.8148555 --> Industry (ANZSIC4) code: 4511 || Trading Name: Tom Thumb Espre
+sso || Location:  (-37.8148555, 144.9728353) ||
+
+**********THIS IS A NEW LOCATION**********
+COUNT IS 11
+144.9728353 -37.8148555 --> Industry (ANZSIC4) code: 4511 || Trading Name: Tom Thumb Espresso || Location:  (-37.8148555, 144.9728353) ||
+
+**********THIS IS A NEW LOCATION**********
+COUNT IS 11
+144.9728353 -37.8148555 --> Industry (ANZSIC4) code: 4511 || Trading Name: Tom Thumb Espresso || Location:  (-37.8148555, 144.9728353) ||
+
+**********THIS IS A NEW LOCATION**********
+COUNT IS 11
+144.9728353 -37.8148555 --> Industry (ANZSIC4) code: 4511 || Trading Name: Tom Thumb Espresso || Location:  (-37.8148555, 144.9728353) ||
+
+**********THIS IS A NEW LOCATION**********
+COUNT IS 11
+144.9728353 -37.8148555 --> Industry (ANZSIC4) code: 4511 || Trading Name: Tom Thumb Espresso || Location:  (-37.8148555, 144.9728353) ||
+
+**********THIS IS A NEW LOCATION**********
+COUNT IS 11
+144.9728353 -37.8148555 --> Industry (ANZSIC4) code: 4511 || Trading Name: Tom Thumb Espresso || Location:  (-37.8148555, 144.9728353) ||
+
+./map1 CLUEdata2018_median.csv output1-Median.txt < input.txt
+**********THIS IS A MAP1 NEAREST NODE**********
+**********THIS IS A NEW LOCATION**********
+COUNT IS 12
+144.9884544 -37.81507697 --> Industry (ANZSIC4) code: 0 || Trading Name: Vacant || Location:  (-37.81507697, 144.9884544) ||
+
+**********THIS IS A NEW LOCATION**********
+COUNT IS 12
+144.988712 -37.81482308 --> Industry (ANZSIC4) code: 4110 || Trading Name: East Melbourne General Store || Location:  (-37.81482308, 144.988712) ||
+
+**********THIS IS A NEW LOCATION**********
+COUNT IS 12
+144.9884544 -37.81507697 --> Industry (ANZSIC4) code: 0 || Trading Name: Vacant || Location:  (-37.81507697, 144.9884544) ||
+
+**********THIS IS A NEW LOCATION**********
+COUNT IS 12
+144.988712 -37.81482308 --> Industry (ANZSIC4) code: 4110 || Trading Name: East Melbourne General Store || Location:  (-37.81482308, 144.988712) ||
+
+**********THIS IS A NEW LOCATION**********
+COUNT IS 12
+144.988712 -37.81482308 --> Industry (ANZSIC4) code: 4110 || Trading Name: East Melbourne General Store || Location:  (-37.81482308, 144.988712) ||
+
+**********THIS IS A NEW LOCATION**********
+COUNT IS 12
+144.988712 -37.81482308 --> Industry (ANZSIC4) code: 4110 || Trading Name: East Melbourne General Store || Location:  (-37.81482308, 144.988712) ||
+
+./map1 CLUEdata2018_sortx.csv output1-Sortx.txt < input.txt
+**********THIS IS A MAP1 NEAREST NODE**********
+**********THIS IS A NEW LOCATION**********
+COUNT IS 6
+144.9733972 -37.8299839 --> Industry (ANZSIC4) code: 8910 || Trading Name: Shrine of Rememberance || Location:  (-37.8299839, 144.9733972) ||
+
+**********THIS IS A NEW LOCATION**********
+COUNT IS 6
+144.9733972 -37.8299839 --> Industry (ANZSIC4) code: 8910 || Trading Name: Shrine of Rememberance || Location:  (-37.8299839, 144.9733972) ||
+
+**********THIS IS A NEW LOCATION**********
+COUNT IS 6
+144.9733972 -37.8299839 --> Industry (ANZSIC4) code: 8910 || Trading Name: Shrine of Rememberance || Location:  (-37.8299839, 144.9733972) ||
+
+**********THIS IS A NEW LOCATION**********
+COUNT IS 6
+144.9733972 -37.8299839 --> Industry (ANZSIC4) code: 8910 || Trading Name: Shrine of Rememberance || Location:  (-37.8299839, 144.9733972) ||
+
+**********THIS IS A NEW LOCATION**********
+COUNT IS 6
+144.9733972 -37.8299839 --> Industry (ANZSIC4) code: 8910 || Trading Name: Shrine of Rememberance || Location:  (-37.8299839, 144.9733972) ||
+
+**********THIS IS A NEW LOCATION**********
+COUNT IS 6
+144.9733972 -37.8299839 --> Industry (ANZSIC4) code: 8910 || Trading Name: Shrine of Rememberance || Location:  (-37.8299839, 144.9733972) ||

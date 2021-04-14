@@ -1,0 +1,6 @@
+144.95614 -37.79501 --> Census year: 2018 || Block ID: 914 || Property ID: 110181 || Base Property ID: 110181 || CLUE small area: Parkville || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.95614 || y coordinate: -37.79501 || Location: (-37.79501, 144.95614) ||
+
+144.91773 -37.79734 --> Census year: 2018 || Block ID: 539 || Property ID: 104827 || Base Property ID: 104827 || CLUE small area: Kensington || Industry (ANZSIC4) code: 7311 || Industry (ANZSIC4) description: Building and Other Industrial Cleaning Services || x coordinate: 144.91773 || y coordinate: -37.79734 || Location: (-37.79734, 144.91773) ||
+
+144.91773 -37.79734 --> Census year: 2018 || Block ID: 539 || Property ID: 104827 || Base Property ID: 104827 || CLUE small area: Kensington || Industry (ANZSIC4) code: 4610 || Industry (ANZSIC4) description: Road Freight Transport || x coordinate: 144.91773 || y coordinate: -37.79734 || Location: (-37.79734, 144.91773) ||
+

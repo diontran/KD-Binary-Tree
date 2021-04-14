@@ -1,0 +1,12 @@
+144.9728353 -37.8148555 --> Census year: 2018 || Block ID: 18 || Property ID: 111021 || Base Property ID: 111021 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants || x coordinate: 144.9728353 || y coordinate: -37.8148555 || Location: (-37.8148555, 144.9728353) ||
+
+144.9728353 -37.8148555 --> Census year: 2018 || Block ID: 18 || Property ID: 111021 || Base Property ID: 111021 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants || x coordinate: 144.9728353 || y coordinate: -37.8148555 || Location: (-37.8148555, 144.9728353) ||
+
+144.9728353 -37.8148555 --> Census year: 2018 || Block ID: 18 || Property ID: 111021 || Base Property ID: 111021 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants || x coordinate: 144.9728353 || y coordinate: -37.8148555 || Location: (-37.8148555, 144.9728353) ||
+
+144.9728353 -37.8148555 --> Census year: 2018 || Block ID: 18 || Property ID: 111021 || Base Property ID: 111021 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants || x coordinate: 144.9728353 || y coordinate: -37.8148555 || Location: (-37.8148555, 144.9728353) ||
+
+144.9728353 -37.8148555 --> Census year: 2018 || Block ID: 18 || Property ID: 111021 || Base Property ID: 111021 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants || x coordinate: 144.9728353 || y coordinate: -37.8148555 || Location: (-37.8148555, 144.9728353) ||
+
+144.9728353 -37.8148555 --> Census year: 2018 || Block ID: 18 || Property ID: 111021 || Base Property ID: 111021 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants || x coordinate: 144.9728353 || y coordinate: -37.8148555 || Location: (-37.8148555, 144.9728353) ||
+

@@ -1,0 +1,10 @@
+144.9733972 -37.8299839 --> Census year: 2018 || Block ID: 852 || Property ID: 111025 || Base Property ID: 111025 || CLUE small area: Melbourne (Remainder) || Industry (ANZSIC4) code: 8910 || Industry (ANZSIC4) description: Museum Operation || x coordinate: 144.9733972 || y coordinate: -37.8299839 || Location: (-37.8299839, 144.9733972) ||
+
+144.9733972 -37.8299839 --> Census year: 2018 || Block ID: 852 || Property ID: 111025 || Base Property ID: 111025 || CLUE small area: Melbourne (Remainder) || Industry (ANZSIC4) code: 8910 || Industry (ANZSIC4) description: Museum Operation || x coordinate: 144.9733972 || y coordinate: -37.8299839 || Location: (-37.8299839, 144.9733972) ||
+
+144.9679586 -37.82998243 --> Census year: 2018 || Block ID: 747 || Property ID: 627248 || Base Property ID: 627248 || CLUE small area: Southbank || Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants || x coordinate: 144.9679586 || y coordinate: -37.82998243 || Location: (-37.82998243, 144.9679586) ||
+
+144.9679586 -37.82998243 --> Census year: 2018 || Block ID: 747 || Property ID: 627248 || Base Property ID: 627248 || CLUE small area: Southbank || Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants || x coordinate: 144.9679586 || y coordinate: -37.82998243 || Location: (-37.82998243, 144.9679586) ||
+
+144.9733972 -37.8299839 --> Census year: 2018 || Block ID: 852 || Property ID: 111025 || Base Property ID: 111025 || CLUE small area: Melbourne (Remainder) || Industry (ANZSIC4) code: 8910 || Industry (ANZSIC4) description: Museum Operation || x coordinate: 144.9733972 || y coordinate: -37.8299839 || Location: (-37.8299839, 144.9733972) ||
+

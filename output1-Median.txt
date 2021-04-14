@@ -1,0 +1,12 @@
+144.9884544 -37.81507697 --> Census year: 2018 || Block ID: 605 || Property ID: 108787 || Base Property ID: 108787 || CLUE small area: East Melbourne || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.9884544 || y coordinate: -37.81507697 || Location: (-37.81507697, 144.9884544) ||
+
+144.988712 -37.81482308 --> Census year: 2018 || Block ID: 605 || Property ID: 104943 || Base Property ID: 104943 || CLUE small area: East Melbourne || Industry (ANZSIC4) code: 4110 || Industry (ANZSIC4) description: Supermarket and Grocery Stores || x coordinate: 144.988712 || y coordinate: -37.81482308 || Location: (-37.81482308, 144.988712) ||
+
+144.9884544 -37.81507697 --> Census year: 2018 || Block ID: 605 || Property ID: 108787 || Base Property ID: 108787 || CLUE small area: East Melbourne || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.9884544 || y coordinate: -37.81507697 || Location: (-37.81507697, 144.9884544) ||
+
+144.988712 -37.81482308 --> Census year: 2018 || Block ID: 605 || Property ID: 104943 || Base Property ID: 104943 || CLUE small area: East Melbourne || Industry (ANZSIC4) code: 4110 || Industry (ANZSIC4) description: Supermarket and Grocery Stores || x coordinate: 144.988712 || y coordinate: -37.81482308 || Location: (-37.81482308, 144.988712) ||
+
+144.988712 -37.81482308 --> Census year: 2018 || Block ID: 605 || Property ID: 104943 || Base Property ID: 104943 || CLUE small area: East Melbourne || Industry (ANZSIC4) code: 4110 || Industry (ANZSIC4) description: Supermarket and Grocery Stores || x coordinate: 144.988712 || y coordinate: -37.81482308 || Location: (-37.81482308, 144.988712) ||
+
+144.988712 -37.81482308 --> Census year: 2018 || Block ID: 605 || Property ID: 104943 || Base Property ID: 104943 || CLUE small area: East Melbourne || Industry (ANZSIC4) code: 4110 || Industry (ANZSIC4) description: Supermarket and Grocery Stores || x coordinate: 144.988712 || y coordinate: -37.81482308 || Location: (-37.81482308, 144.988712) ||
+

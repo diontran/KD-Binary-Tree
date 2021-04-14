@@ -1,0 +1,286 @@
+144.9519423 -37.78462231 --> Census year: 2018 || Block ID: 931 || Property ID: 110273 || Base Property ID: 110273 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants || x coordinate: 144.9519423 || y coordinate: -37.78462231 || Location: (-37.78462231, 144.9519423) ||
+
+144.9519423 -37.78462231 --> Census year: 2018 || Block ID: 931 || Property ID: 110273 || Base Property ID: 110273 || CLUE small area: Parkville || Industry (ANZSIC4) code: 8921 || Industry (ANZSIC4) description: Zoological and Botanical Gardens Operation || x coordinate: 144.9519423 || y coordinate: -37.78462231 || Location: (-37.78462231, 144.9519423) ||
+
+144.9519423 -37.78462231 --> Census year: 2018 || Block ID: 931 || Property ID: 110273 || Base Property ID: 110273 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4512 || Industry (ANZSIC4) description: Takeaway Food Services || x coordinate: 144.9519423 || y coordinate: -37.78462231 || Location: (-37.78462231, 144.9519423) ||
+
+144.9519423 -37.78462231 --> Census year: 2018 || Block ID: 931 || Property ID: 110273 || Base Property ID: 110273 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4512 || Industry (ANZSIC4) description: Takeaway Food Services || x coordinate: 144.9519423 || y coordinate: -37.78462231 || Location: (-37.78462231, 144.9519423) ||
+
+144.9519423 -37.78462231 --> Census year: 2018 || Block ID: 931 || Property ID: 110273 || Base Property ID: 110273 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4512 || Industry (ANZSIC4) description: Takeaway Food Services || x coordinate: 144.9519423 || y coordinate: -37.78462231 || Location: (-37.78462231, 144.9519423) ||
+
+144.9519423 -37.78462231 --> Census year: 2018 || Block ID: 931 || Property ID: 110273 || Base Property ID: 110273 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4512 || Industry (ANZSIC4) description: Takeaway Food Services || x coordinate: 144.9519423 || y coordinate: -37.78462231 || Location: (-37.78462231, 144.9519423) ||
+
+144.9519423 -37.78462231 --> Census year: 2018 || Block ID: 931 || Property ID: 110273 || Base Property ID: 110273 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4512 || Industry (ANZSIC4) description: Takeaway Food Services || x coordinate: 144.9519423 || y coordinate: -37.78462231 || Location: (-37.78462231, 144.9519423) ||
+
+144.9519423 -37.78462231 --> Census year: 2018 || Block ID: 931 || Property ID: 110273 || Base Property ID: 110273 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4512 || Industry (ANZSIC4) description: Takeaway Food Services || x coordinate: 144.9519423 || y coordinate: -37.78462231 || Location: (-37.78462231, 144.9519423) ||
+
+144.9519423 -37.78462231 --> Census year: 2018 || Block ID: 931 || Property ID: 110273 || Base Property ID: 110273 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants || x coordinate: 144.9519423 || y coordinate: -37.78462231 || Location: (-37.78462231, 144.9519423) ||
+
+144.9519423 -37.78462231 --> Census year: 2018 || Block ID: 931 || Property ID: 110273 || Base Property ID: 110273 || CLUE small area: Parkville || Industry (ANZSIC4) code: 8921 || Industry (ANZSIC4) description: Zoological and Botanical Gardens Operation || x coordinate: 144.9519423 || y coordinate: -37.78462231 || Location: (-37.78462231, 144.9519423) ||
+
+144.9519423 -37.78462231 --> Census year: 2018 || Block ID: 931 || Property ID: 110273 || Base Property ID: 110273 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4512 || Industry (ANZSIC4) description: Takeaway Food Services || x coordinate: 144.9519423 || y coordinate: -37.78462231 || Location: (-37.78462231, 144.9519423) ||
+
+144.9519423 -37.78462231 --> Census year: 2018 || Block ID: 931 || Property ID: 110273 || Base Property ID: 110273 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4512 || Industry (ANZSIC4) description: Takeaway Food Services || x coordinate: 144.9519423 || y coordinate: -37.78462231 || Location: (-37.78462231, 144.9519423) ||
+
+144.9519423 -37.78462231 --> Census year: 2018 || Block ID: 931 || Property ID: 110273 || Base Property ID: 110273 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4512 || Industry (ANZSIC4) description: Takeaway Food Services || x coordinate: 144.9519423 || y coordinate: -37.78462231 || Location: (-37.78462231, 144.9519423) ||
+
+144.9519423 -37.78462231 --> Census year: 2018 || Block ID: 931 || Property ID: 110273 || Base Property ID: 110273 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4512 || Industry (ANZSIC4) description: Takeaway Food Services || x coordinate: 144.9519423 || y coordinate: -37.78462231 || Location: (-37.78462231, 144.9519423) ||
+
+144.9519423 -37.78462231 --> Census year: 2018 || Block ID: 931 || Property ID: 110273 || Base Property ID: 110273 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4512 || Industry (ANZSIC4) description: Takeaway Food Services || x coordinate: 144.9519423 || y coordinate: -37.78462231 || Location: (-37.78462231, 144.9519423) ||
+
+144.9519423 -37.78462231 --> Census year: 2018 || Block ID: 931 || Property ID: 110273 || Base Property ID: 110273 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4512 || Industry (ANZSIC4) description: Takeaway Food Services || x coordinate: 144.9519423 || y coordinate: -37.78462231 || Location: (-37.78462231, 144.9519423) ||
+
+144.9710859 -37.79578991 --> Census year: 2018 || Block ID: 225 || Property ID: 108237 || Base Property ID: 108237 || CLUE small area: Carlton || Industry (ANZSIC4) code: 6419 || Industry (ANZSIC4) description: Other Auxiliary Finance and Investment Services || x coordinate: 144.9710859 || y coordinate: -37.79578991 || Location: (-37.79578991, 144.9710859) ||
+
+144.9710859 -37.79578991 --> Census year: 2018 || Block ID: 225 || Property ID: 108237 || Base Property ID: 108237 || CLUE small area: Carlton || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.9710859 || y coordinate: -37.79578991 || Location: (-37.79578991, 144.9710859) ||
+
+144.9710859 -37.79578991 --> Census year: 2018 || Block ID: 225 || Property ID: 108237 || Base Property ID: 108237 || CLUE small area: Carlton || Industry (ANZSIC4) code: 6962 || Industry (ANZSIC4) description: Management Advice and Other Consulting Services || x coordinate: 144.9710859 || y coordinate: -37.79578991 || Location: (-37.79578991, 144.9710859) ||
+
+144.9733814 -37.79334724 --> Census year: 2018 || Block ID: 228 || Property ID: 106892 || Base Property ID: 106892 || CLUE small area: Carlton || Industry (ANZSIC4) code: 9001 || Industry (ANZSIC4) description: Performing Arts Operation || x coordinate: 144.9733814 || y coordinate: -37.79334724 || Location: (-37.79334724, 144.9733814) ||
+
+144.9733814 -37.79334724 --> Census year: 2018 || Block ID: 228 || Property ID: 106892 || Base Property ID: 106892 || CLUE small area: Carlton || Industry (ANZSIC4) code: 7552 || Industry (ANZSIC4) description: Foreign Government Representation || x coordinate: 144.9733814 || y coordinate: -37.79334724 || Location: (-37.79334724, 144.9733814) ||
+
+144.9733814 -37.79334724 --> Census year: 2018 || Block ID: 228 || Property ID: 106892 || Base Property ID: 106892 || CLUE small area: Carlton || Industry (ANZSIC4) code: 6999 || Industry (ANZSIC4) description:  á›Oÿ"Other Professional, Scientific and Technical Services n.e.c." || x coordinate: 144.9733814 || y coordinate: -37.79334724 || Location: (-37.79334724, 144.9733814) ||
+
+144.9733814 -37.79334724 --> Census year: 2018 || Block ID: 228 || Property ID: 106892 || Base Property ID: 106892 || CLUE small area: Carlton || Industry (ANZSIC4) code: 6931 || Industry (ANZSIC4) description: Legal Services || x coordinate: 144.9733814 || y coordinate: -37.79334724 || Location: (-37.79334724, 144.9733814) ||
+
+144.9733888 -37.79303042 --> Census year: 2018 || Block ID: 228 || Property ID: 101450 || Base Property ID: 101450 || CLUE small area: Carlton || Industry (ANZSIC4) code: 4520 || Industry (ANZSIC4) description:  á›Oÿ"Pubs, Taverns and Bars" || x coordinate: 144.9733888 || y coordinate: -37.79303042 || Location: (-37.79303042, 144.9733888) ||
+
+144.9516995 -37.79653566 --> Census year: 2018 || Block ID: 922 || Property ID: 104198 || Base Property ID: 104198 || CLUE small area: Parkville || Industry (ANZSIC4) code: 8512 || Industry (ANZSIC4) description: Specialist Medical Services || x coordinate: 144.9516995 || y coordinate: -37.79653566 || Location: (-37.79653566, 144.9516995) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 9511 || Industry (ANZSIC4) description: Hairdressing and Beauty Services || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 8710 || Industry (ANZSIC4) description: Child Care Services || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4243 || Industry (ANZSIC4) description: Toy and Game Retailing || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 8512 || Industry (ANZSIC4) description: Specialist Medical Services || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 8512 || Industry (ANZSIC4) description: Specialist Medical Services || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4110 || Industry (ANZSIC4) description: Supermarket and Grocery Stores || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 8512 || Industry (ANZSIC4) description: Specialist Medical Services || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 8401 || Industry (ANZSIC4) description: Hospitals (except Psychiatric Hospitals) || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 8512 || Industry (ANZSIC4) description: Specialist Medical Services || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 8512 || Industry (ANZSIC4) description: Specialist Medical Services || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4110 || Industry (ANZSIC4) description: Supermarket and Grocery Stores || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 8101 || Industry (ANZSIC4) description: Technical and Vocational Education and Training || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 8512 || Industry (ANZSIC4) description: Specialist Medical Services || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 9511 || Industry (ANZSIC4) description: Hairdressing and Beauty Services || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4512 || Industry (ANZSIC4) description: Takeaway Food Services || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 8512 || Industry (ANZSIC4) description: Specialist Medical Services || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4512 || Industry (ANZSIC4) description: Takeaway Food Services || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 8512 || Industry (ANZSIC4) description: Specialist Medical Services || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 9131 || Industry (ANZSIC4) description: Amusement Parks and Centres Operation || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4512 || Industry (ANZSIC4) description: Takeaway Food Services || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 8512 || Industry (ANZSIC4) description: Specialist Medical Services || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4243 || Industry (ANZSIC4) description: Toy and Game Retailing || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 8512 || Industry (ANZSIC4) description: Specialist Medical Services || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 8512 || Industry (ANZSIC4) description: Specialist Medical Services || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4279 || Industry (ANZSIC4) description: Other Store-Based Retailing n.e.c. || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 8512 || Industry (ANZSIC4) description: Specialist Medical Services || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4400 || Industry (ANZSIC4) description: Accommodation || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4271 || Industry (ANZSIC4) description:  á›Oÿ"Pharmaceutical, Cosmetic and Toiletry Goods Retailing" || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 9559 || Industry (ANZSIC4) description: Other Interest Group Services n.e.c. || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 8512 || Industry (ANZSIC4) description: Specialist Medical Services || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 9111 || Industry (ANZSIC4) description: Health and Fitness Centres and Gymnasia Operation || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4274 || Industry (ANZSIC4) description: Flower Retailing || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4279 || Industry (ANZSIC4) description: Other Store-Based Retailing n.e.c. || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 8512 || Industry (ANZSIC4) description: Specialist Medical Services || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 6221 || Industry (ANZSIC4) description: Banking || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 8512 || Industry (ANZSIC4) description: Specialist Medical Services || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4512 || Industry (ANZSIC4) description: Takeaway Food Services || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 9511 || Industry (ANZSIC4) description: Hairdressing and Beauty Services || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 8710 || Industry (ANZSIC4) description: Child Care Services || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4243 || Industry (ANZSIC4) description: Toy and Game Retailing || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 8512 || Industry (ANZSIC4) description: Specialist Medical Services || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 8512 || Industry (ANZSIC4) description: Specialist Medical Services || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4110 || Industry (ANZSIC4) description: Supermarket and Grocery Stores || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 8512 || Industry (ANZSIC4) description: Specialist Medical Services || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 8401 || Industry (ANZSIC4) description: Hospitals (except Psychiatric Hospitals) || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 8512 || Industry (ANZSIC4) description: Specialist Medical Services || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 8512 || Industry (ANZSIC4) description: Specialist Medical Services || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4110 || Industry (ANZSIC4) description: Supermarket and Grocery Stores || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 8101 || Industry (ANZSIC4) description: Technical and Vocational Education and Training || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 8512 || Industry (ANZSIC4) description: Specialist Medical Services || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 9511 || Industry (ANZSIC4) description: Hairdressing and Beauty Services || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4512 || Industry (ANZSIC4) description: Takeaway Food Services || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 8512 || Industry (ANZSIC4) description: Specialist Medical Services || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4512 || Industry (ANZSIC4) description: Takeaway Food Services || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 8512 || Industry (ANZSIC4) description: Specialist Medical Services || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 9131 || Industry (ANZSIC4) description: Amusement Parks and Centres Operation || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4512 || Industry (ANZSIC4) description: Takeaway Food Services || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 8512 || Industry (ANZSIC4) description: Specialist Medical Services || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4243 || Industry (ANZSIC4) description: Toy and Game Retailing || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 8512 || Industry (ANZSIC4) description: Specialist Medical Services || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 8512 || Industry (ANZSIC4) description: Specialist Medical Services || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4279 || Industry (ANZSIC4) description: Other Store-Based Retailing n.e.c. || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 8512 || Industry (ANZSIC4) description: Specialist Medical Services || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4400 || Industry (ANZSIC4) description: Accommodation || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4271 || Industry (ANZSIC4) description:  á›Oÿ"Pharmaceutical, Cosmetic and Toiletry Goods Retailing" || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 9559 || Industry (ANZSIC4) description: Other Interest Group Services n.e.c. || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 8512 || Industry (ANZSIC4) description: Specialist Medical Services || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 9111 || Industry (ANZSIC4) description: Health and Fitness Centres and Gymnasia Operation || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4274 || Industry (ANZSIC4) description: Flower Retailing || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4279 || Industry (ANZSIC4) description: Other Store-Based Retailing n.e.c. || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 8512 || Industry (ANZSIC4) description: Specialist Medical Services || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 6221 || Industry (ANZSIC4) description: Banking || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 8512 || Industry (ANZSIC4) description: Specialist Medical Services || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9495226 -37.7938185 --> Census year: 2018 || Block ID: 931 || Property ID: 103908 || Base Property ID: 103908 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4512 || Industry (ANZSIC4) description: Takeaway Food Services || x coordinate: 144.9495226 || y coordinate: -37.7938185 || Location: (-37.7938185, 144.9495226) ||
+
+144.9519423 -37.78462231 --> Census year: 2018 || Block ID: 931 || Property ID: 110273 || Base Property ID: 110273 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants || x coordinate: 144.9519423 || y coordinate: -37.78462231 || Location: (-37.78462231, 144.9519423) ||
+
+144.9519423 -37.78462231 --> Census year: 2018 || Block ID: 931 || Property ID: 110273 || Base Property ID: 110273 || CLUE small area: Parkville || Industry (ANZSIC4) code: 8921 || Industry (ANZSIC4) description: Zoological and Botanical Gardens Operation || x coordinate: 144.9519423 || y coordinate: -37.78462231 || Location: (-37.78462231, 144.9519423) ||
+
+144.9519423 -37.78462231 --> Census year: 2018 || Block ID: 931 || Property ID: 110273 || Base Property ID: 110273 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4512 || Industry (ANZSIC4) description: Takeaway Food Services || x coordinate: 144.9519423 || y coordinate: -37.78462231 || Location: (-37.78462231, 144.9519423) ||
+
+144.9519423 -37.78462231 --> Census year: 2018 || Block ID: 931 || Property ID: 110273 || Base Property ID: 110273 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4512 || Industry (ANZSIC4) description: Takeaway Food Services || x coordinate: 144.9519423 || y coordinate: -37.78462231 || Location: (-37.78462231, 144.9519423) ||
+
+144.9519423 -37.78462231 --> Census year: 2018 || Block ID: 931 || Property ID: 110273 || Base Property ID: 110273 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4512 || Industry (ANZSIC4) description: Takeaway Food Services || x coordinate: 144.9519423 || y coordinate: -37.78462231 || Location: (-37.78462231, 144.9519423) ||
+
+144.9519423 -37.78462231 --> Census year: 2018 || Block ID: 931 || Property ID: 110273 || Base Property ID: 110273 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4512 || Industry (ANZSIC4) description: Takeaway Food Services || x coordinate: 144.9519423 || y coordinate: -37.78462231 || Location: (-37.78462231, 144.9519423) ||
+
+144.9519423 -37.78462231 --> Census year: 2018 || Block ID: 931 || Property ID: 110273 || Base Property ID: 110273 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4512 || Industry (ANZSIC4) description: Takeaway Food Services || x coordinate: 144.9519423 || y coordinate: -37.78462231 || Location: (-37.78462231, 144.9519423) ||
+
+144.9519423 -37.78462231 --> Census year: 2018 || Block ID: 931 || Property ID: 110273 || Base Property ID: 110273 || CLUE small area: Parkville || Industry (ANZSIC4) code: 4512 || Industry (ANZSIC4) description: Takeaway Food Services || x coordinate: 144.9519423 || y coordinate: -37.78462231 || Location: (-37.78462231, 144.9519423) ||
+
+144.9710859 -37.79578991 --> Census year: 2018 || Block ID: 225 || Property ID: 108237 || Base Property ID: 108237 || CLUE small area: Carlton || Industry (ANZSIC4) code: 6419 || Industry (ANZSIC4) description: Other Auxiliary Finance and Investment Services || x coordinate: 144.9710859 || y coordinate: -37.79578991 || Location: (-37.79578991, 144.9710859) ||
+
+144.9710859 -37.79578991 --> Census year: 2018 || Block ID: 225 || Property ID: 108237 || Base Property ID: 108237 || CLUE small area: Carlton || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.9710859 || y coordinate: -37.79578991 || Location: (-37.79578991, 144.9710859) ||
+
+144.9710859 -37.79578991 --> Census year: 2018 || Block ID: 225 || Property ID: 108237 || Base Property ID: 108237 || CLUE small area: Carlton || Industry (ANZSIC4) code: 6962 || Industry (ANZSIC4) description: Management Advice and Other Consulting Services || x coordinate: 144.9710859 || y coordinate: -37.79578991 || Location: (-37.79578991, 144.9710859) ||
+
+144.9733814 -37.79334724 --> Census year: 2018 || Block ID: 228 || Property ID: 106892 || Base Property ID: 106892 || CLUE small area: Carlton || Industry (ANZSIC4) code: 9001 || Industry (ANZSIC4) description: Performing Arts Operation || x coordinate: 144.9733814 || y coordinate: -37.79334724 || Location: (-37.79334724, 144.9733814) ||
+
+144.9733814 -37.79334724 --> Census year: 2018 || Block ID: 228 || Property ID: 106892 || Base Property ID: 106892 || CLUE small area: Carlton || Industry (ANZSIC4) code: 7552 || Industry (ANZSIC4) description: Foreign Government Representation || x coordinate: 144.9733814 || y coordinate: -37.79334724 || Location: (-37.79334724, 144.9733814) ||
+
+144.9733814 -37.79334724 --> Census year: 2018 || Block ID: 228 || Property ID: 106892 || Base Property ID: 106892 || CLUE small area: Carlton || Industry (ANZSIC4) code: 6999 || Industry (ANZSIC4) description:  á›Oÿ"Other Professional, Scientific and Technical Services n.e.c." || x coordinate: 144.9733814 || y coordinate: -37.79334724 || Location: (-37.79334724, 144.9733814) ||
+
+144.9733814 -37.79334724 --> Census year: 2018 || Block ID: 228 || Property ID: 106892 || Base Property ID: 106892 || CLUE small area: Carlton || Industry (ANZSIC4) code: 6931 || Industry (ANZSIC4) description: Legal Services || x coordinate: 144.9733814 || y coordinate: -37.79334724 || Location: (-37.79334724, 144.9733814) ||
+
+144.9733888 -37.79303042 --> Census year: 2018 || Block ID: 228 || Property ID: 101450 || Base Property ID: 101450 || CLUE small area: Carlton || Industry (ANZSIC4) code: 4520 || Industry (ANZSIC4) description:  á›Oÿ"Pubs, Taverns and Bars" || x coordinate: 144.9733888 || y coordinate: -37.79303042 || Location: (-37.79303042, 144.9733888) ||
+

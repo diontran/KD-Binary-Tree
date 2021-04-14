@@ -1,0 +1,78 @@
+144.9566201 -37.79455742 --> Census year: 2018 || Block ID: 914 || Property ID: 103779 || Base Property ID: 103779 || CLUE small area: Parkville || Industry (ANZSIC4) code: 5101 || Industry (ANZSIC4) description: Postal Services || x coordinate: 144.9566201 || y coordinate: -37.79455742 || Location: (-37.79455742, 144.9566201) ||
+
+144.9753504 -37.7932694 --> Census year: 2018 || Block ID: 230 || Property ID: 106980 || Base Property ID: 106980 || CLUE small area: Carlton || Industry (ANZSIC4) code: 9411 || Industry (ANZSIC4) description: Automotive Electrical Services || x coordinate: 144.9753504 || y coordinate: -37.7932694 || Location: (-37.7932694, 144.9753504) ||
+
+144.9753504 -37.7932694 --> Census year: 2018 || Block ID: 230 || Property ID: 106980 || Base Property ID: 106980 || CLUE small area: Carlton || Industry (ANZSIC4) code: 4000 || Industry (ANZSIC4) description: Fuel Retailing || x coordinate: 144.9753504 || y coordinate: -37.7932694 || Location: (-37.7932694, 144.9753504) ||
+
+144.9566201 -37.79455742 --> Census year: 2018 || Block ID: 914 || Property ID: 103779 || Base Property ID: 103779 || CLUE small area: Parkville || Industry (ANZSIC4) code: 5101 || Industry (ANZSIC4) description: Postal Services || x coordinate: 144.9566201 || y coordinate: -37.79455742 || Location: (-37.79455742, 144.9566201) ||
+
+144.9579851 -37.79097116 --> Census year: 2018 || Block ID: 909 || Property ID: 108491 || Base Property ID: 108491 || CLUE small area: Parkville || Industry (ANZSIC4) code: 9113 || Industry (ANZSIC4) description: °Á’þ"Sports and Physical Recreation Venues, Grounds and Facilities Operation" || x coordinate: 144.9579851 || y coordinate: -37.79097116 || Location: (-37.79097116, 144.9579851) ||
+
+144.971175 -37.79523237 --> Census year: 2018 || Block ID: 226 || Property ID: 108230 || Base Property ID: 108230 || CLUE small area: Carlton || Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants || x coordinate: 144.971175 || y coordinate: -37.79523237 || Location: (-37.79523237, 144.971175) ||
+
+144.9737282 -37.79606334 --> Census year: 2018 || Block ID: 231 || Property ID: 109056 || Base Property ID: 109056 || CLUE small area: Carlton || Industry (ANZSIC4) code: 8710 || Industry (ANZSIC4) description: Child Care Services || x coordinate: 144.9737282 || y coordinate: -37.79606334 || Location: (-37.79606334, 144.9737282) ||
+
+144.9733814 -37.79334724 --> Census year: 2018 || Block ID: 228 || Property ID: 106892 || Base Property ID: 106892 || CLUE small area: Carlton || Industry (ANZSIC4) code: 9001 || Industry (ANZSIC4) description: Performing Arts Operation || x coordinate: 144.9733814 || y coordinate: -37.79334724 || Location: (-37.79334724, 144.9733814) ||
+
+144.9733814 -37.79334724 --> Census year: 2018 || Block ID: 228 || Property ID: 106892 || Base Property ID: 106892 || CLUE small area: Carlton || Industry (ANZSIC4) code: 7552 || Industry (ANZSIC4) description: Foreign Government Representation || x coordinate: 144.9733814 || y coordinate: -37.79334724 || Location: (-37.79334724, 144.9733814) ||
+
+144.9733814 -37.79334724 --> Census year: 2018 || Block ID: 228 || Property ID: 106892 || Base Property ID: 106892 || CLUE small area: Carlton || Industry (ANZSIC4) code: 6999 || Industry (ANZSIC4) description: °Á’þ"Other Professional, Scientific and Technical Services n.e.c." || x coordinate: 144.9733814 || y coordinate: -37.79334724 || Location: (-37.79334724, 144.9733814) ||
+
+144.9733814 -37.79334724 --> Census year: 2018 || Block ID: 228 || Property ID: 106892 || Base Property ID: 106892 || CLUE small area: Carlton || Industry (ANZSIC4) code: 6931 || Industry (ANZSIC4) description: Legal Services || x coordinate: 144.9733814 || y coordinate: -37.79334724 || Location: (-37.79334724, 144.9733814) ||
+
+144.9750546 -37.79482768 --> Census year: 2018 || Block ID: 230 || Property ID: 106962 || Base Property ID: 106962 || CLUE small area: Carlton || Industry (ANZSIC4) code: 9539 || Industry (ANZSIC4) description: Other Personal Services n.e.c. || x coordinate: 144.9750546 || y coordinate: -37.79482768 || Location: (-37.79482768, 144.9750546) ||
+
+144.9751349 -37.79439861 --> Census year: 2018 || Block ID: 230 || Property ID: 106969 || Base Property ID: 106969 || CLUE small area: Carlton || Industry (ANZSIC4) code: 3419 || Industry (ANZSIC4) description: Other Specialised Industrial Machinery and Equipment Wholesaling || x coordinate: 144.9751349 || y coordinate: -37.79439861 || Location: (-37.79439861, 144.9751349) ||
+
+144.9751349 -37.79439861 --> Census year: 2018 || Block ID: 230 || Property ID: 106969 || Base Property ID: 106969 || CLUE small area: Carlton || Industry (ANZSIC4) code: 8539 || Industry (ANZSIC4) description: Other Allied Health Services || x coordinate: 144.9751349 || y coordinate: -37.79439861 || Location: (-37.79439861, 144.9751349) ||
+
+144.9751349 -37.79439861 --> Census year: 2018 || Block ID: 230 || Property ID: 106969 || Base Property ID: 106969 || CLUE small area: Carlton || Industry (ANZSIC4) code: 4512 || Industry (ANZSIC4) description: Takeaway Food Services || x coordinate: 144.9751349 || y coordinate: -37.79439861 || Location: (-37.79439861, 144.9751349) ||
+
+144.9753504 -37.7932694 --> Census year: 2018 || Block ID: 230 || Property ID: 106980 || Base Property ID: 106980 || CLUE small area: Carlton || Industry (ANZSIC4) code: 9411 || Industry (ANZSIC4) description: Automotive Electrical Services || x coordinate: 144.9753504 || y coordinate: -37.7932694 || Location: (-37.7932694, 144.9753504) ||
+
+144.9753504 -37.7932694 --> Census year: 2018 || Block ID: 230 || Property ID: 106980 || Base Property ID: 106980 || CLUE small area: Carlton || Industry (ANZSIC4) code: 4000 || Industry (ANZSIC4) description: Fuel Retailing || x coordinate: 144.9753504 || y coordinate: -37.7932694 || Location: (-37.7932694, 144.9753504) ||
+
+144.9594961 -37.82059787 --> Census year: 2018 || Block ID: 2 || Property ID: 111467 || Base Property ID: 103973 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 8921 || Industry (ANZSIC4) description: Zoological and Botanical Gardens Operation || x coordinate: 144.9594961 || y coordinate: -37.82059787 || Location: (-37.82059787, 144.9594961) ||
+
+144.9516995 -37.79653566 --> Census year: 2018 || Block ID: 922 || Property ID: 104198 || Base Property ID: 104198 || CLUE small area: Parkville || Industry (ANZSIC4) code: 8512 || Industry (ANZSIC4) description: Specialist Medical Services || x coordinate: 144.9516995 || y coordinate: -37.79653566 || Location: (-37.79653566, 144.9516995) ||
+
+144.9535424 -37.80000108 --> Census year: 2018 || Block ID: 377 || Property ID: 109599 || Base Property ID: 109599 || CLUE small area: North Melbourne || Industry (ANZSIC4) code: 9551 || Industry (ANZSIC4) description: Business and Professional Association Services || x coordinate: 144.9535424 || y coordinate: -37.80000108 || Location: (-37.80000108, 144.9535424) ||
+
+144.9535424 -37.80000108 --> Census year: 2018 || Block ID: 377 || Property ID: 109599 || Base Property ID: 109599 || CLUE small area: North Melbourne || Industry (ANZSIC4) code: 9551 || Industry (ANZSIC4) description: Business and Professional Association Services || x coordinate: 144.9535424 || y coordinate: -37.80000108 || Location: (-37.80000108, 144.9535424) ||
+
+144.9535424 -37.80000108 --> Census year: 2018 || Block ID: 377 || Property ID: 109599 || Base Property ID: 109599 || CLUE small area: North Melbourne || Industry (ANZSIC4) code: 6932 || Industry (ANZSIC4) description: Accounting Services || x coordinate: 144.9535424 || y coordinate: -37.80000108 || Location: (-37.80000108, 144.9535424) ||
+
+144.9535424 -37.80000108 --> Census year: 2018 || Block ID: 377 || Property ID: 109599 || Base Property ID: 109599 || CLUE small area: North Melbourne || Industry (ANZSIC4) code: 7299 || Industry (ANZSIC4) description: Other Administrative Services n.e.c. || x coordinate: 144.9535424 || y coordinate: -37.80000108 || Location: (-37.80000108, 144.9535424) ||
+
+144.9535424 -37.80000108 --> Census year: 2018 || Block ID: 377 || Property ID: 109599 || Base Property ID: 109599 || CLUE small area: North Melbourne || Industry (ANZSIC4) code: 9559 || Industry (ANZSIC4) description: Other Interest Group Services n.e.c. || x coordinate: 144.9535424 || y coordinate: -37.80000108 || Location: (-37.80000108, 144.9535424) ||
+
+144.9566201 -37.79455742 --> Census year: 2018 || Block ID: 914 || Property ID: 103779 || Base Property ID: 103779 || CLUE small area: Parkville || Industry (ANZSIC4) code: 5101 || Industry (ANZSIC4) description: Postal Services || x coordinate: 144.9566201 || y coordinate: -37.79455742 || Location: (-37.79455742, 144.9566201) ||
+
+144.9579851 -37.79097116 --> Census year: 2018 || Block ID: 909 || Property ID: 108491 || Base Property ID: 108491 || CLUE small area: Parkville || Industry (ANZSIC4) code: 9113 || Industry (ANZSIC4) description: °Á’þ"Sports and Physical Recreation Venues, Grounds and Facilities Operation" || x coordinate: 144.9579851 || y coordinate: -37.79097116 || Location: (-37.79097116, 144.9579851) ||
+
+144.9583973 -37.78628867 --> Census year: 2018 || Block ID: 906 || Property ID: 108500 || Base Property ID: 108500 || CLUE small area: Parkville || Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.9583973 || y coordinate: -37.78628867 || Location: (-37.78628867, 144.9583973) ||
+
+144.971175 -37.79523237 --> Census year: 2018 || Block ID: 226 || Property ID: 108230 || Base Property ID: 108230 || CLUE small area: Carlton || Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants || x coordinate: 144.971175 || y coordinate: -37.79523237 || Location: (-37.79523237, 144.971175) ||
+
+144.9737282 -37.79606334 --> Census year: 2018 || Block ID: 231 || Property ID: 109056 || Base Property ID: 109056 || CLUE small area: Carlton || Industry (ANZSIC4) code: 8710 || Industry (ANZSIC4) description: Child Care Services || x coordinate: 144.9737282 || y coordinate: -37.79606334 || Location: (-37.79606334, 144.9737282) ||
+
+144.9733814 -37.79334724 --> Census year: 2018 || Block ID: 228 || Property ID: 106892 || Base Property ID: 106892 || CLUE small area: Carlton || Industry (ANZSIC4) code: 9001 || Industry (ANZSIC4) description: Performing Arts Operation || x coordinate: 144.9733814 || y coordinate: -37.79334724 || Location: (-37.79334724, 144.9733814) ||
+
+144.9733814 -37.79334724 --> Census year: 2018 || Block ID: 228 || Property ID: 106892 || Base Property ID: 106892 || CLUE small area: Carlton || Industry (ANZSIC4) code: 7552 || Industry (ANZSIC4) description: Foreign Government Representation || x coordinate: 144.9733814 || y coordinate: -37.79334724 || Location: (-37.79334724, 144.9733814) ||
+
+144.9733814 -37.79334724 --> Census year: 2018 || Block ID: 228 || Property ID: 106892 || Base Property ID: 106892 || CLUE small area: Carlton || Industry (ANZSIC4) code: 6999 || Industry (ANZSIC4) description: °Á’þ"Other Professional, Scientific and Technical Services n.e.c." || x coordinate: 144.9733814 || y coordinate: -37.79334724 || Location: (-37.79334724, 144.9733814) ||
+
+144.9733814 -37.79334724 --> Census year: 2018 || Block ID: 228 || Property ID: 106892 || Base Property ID: 106892 || CLUE small area: Carlton || Industry (ANZSIC4) code: 6931 || Industry (ANZSIC4) description: Legal Services || x coordinate: 144.9733814 || y coordinate: -37.79334724 || Location: (-37.79334724, 144.9733814) ||
+
+144.9750546 -37.79482768 --> Census year: 2018 || Block ID: 230 || Property ID: 106962 || Base Property ID: 106962 || CLUE small area: Carlton || Industry (ANZSIC4) code: 9539 || Industry (ANZSIC4) description: Other Personal Services n.e.c. || x coordinate: 144.9750546 || y coordinate: -37.79482768 || Location: (-37.79482768, 144.9750546) ||
+
+144.9751349 -37.79439861 --> Census year: 2018 || Block ID: 230 || Property ID: 106969 || Base Property ID: 106969 || CLUE small area: Carlton || Industry (ANZSIC4) code: 3419 || Industry (ANZSIC4) description: Other Specialised Industrial Machinery and Equipment Wholesaling || x coordinate: 144.9751349 || y coordinate: -37.79439861 || Location: (-37.79439861, 144.9751349) ||
+
+144.9751349 -37.79439861 --> Census year: 2018 || Block ID: 230 || Property ID: 106969 || Base Property ID: 106969 || CLUE small area: Carlton || Industry (ANZSIC4) code: 8539 || Industry (ANZSIC4) description: Other Allied Health Services || x coordinate: 144.9751349 || y coordinate: -37.79439861 || Location: (-37.79439861, 144.9751349) ||
+
+144.9751349 -37.79439861 --> Census year: 2018 || Block ID: 230 || Property ID: 106969 || Base Property ID: 106969 || CLUE small area: Carlton || Industry (ANZSIC4) code: 4512 || Industry (ANZSIC4) description: Takeaway Food Services || x coordinate: 144.9751349 || y coordinate: -37.79439861 || Location: (-37.79439861, 144.9751349) ||
+
+144.9753504 -37.7932694 --> Census year: 2018 || Block ID: 230 || Property ID: 106980 || Base Property ID: 106980 || CLUE small area: Carlton || Industry (ANZSIC4) code: 9411 || Industry (ANZSIC4) description: Automotive Electrical Services || x coordinate: 144.9753504 || y coordinate: -37.7932694 || Location: (-37.7932694, 144.9753504) ||
+
+144.9753504 -37.7932694 --> Census year: 2018 || Block ID: 230 || Property ID: 106980 || Base Property ID: 106980 || CLUE small area: Carlton || Industry (ANZSIC4) code: 4000 || Industry (ANZSIC4) description: Fuel Retailing || x coordinate: 144.9753504 || y coordinate: -37.7932694 || Location: (-37.7932694, 144.9753504) ||
+

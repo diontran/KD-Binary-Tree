@@ -1,0 +1,679 @@
+./map2 CLUEdata2018_random.csv output2-Random.txt < input2.txt
+**********THIS IS A MAP2 CLOSEST NODE**********
+**********THIS IS A NEW LOCATION**********
+144.957600 -37.827560 0.000000 --> NOTFOUND
+**********THIS IS A NEW LOCATION**********
+144.956620 -37.794557 0.000000 --> NOTFOUND
+**********THIS IS A NEW LOCATION**********
+COUNT = 4
+144.9519423 -37.78462231 --> Industry (ANZSIC4) code: 4511 || Trading Name: Lakeside Bistro And Function Centre || Location:  (-37.78462231, 144.9519423) ||
+
+COUNT = 4
+144.9519423 -37.78462231 --> Industry (ANZSIC4) code: 8921 || Trading Name: Zoos Victoria || Location:  (-37.78462231, 144.9519423) ||
+
+COUNT = 4
+144.9519423 -37.78462231 --> Industry (ANZSIC4) code: 4512 || Trading Name: Plaza Kiosk || Location:  (-37.78462231, 144.9519423) ||
+
+COUNT = 4
+144.9519423 -37.78462231 --> Industry (ANZSIC4) code: 4512 || Trading Name: Village Kiosk || Location:  (-37.78462231, 144.9519423) ||
+
+COUNT = 4
+144.9519423 -37.78462231 --> Industry (ANZSIC4) code: 4512 || Trading Name: Meerkat Manor || Location:  (-37.78462231, 144.9519423) ||
+
+COUNT = 4
+144.9519423 -37.78462231 --> Industry (ANZSIC4) code: 4512 || Trading Name: Wild Dog || Location:  (-37.78462231, 144.9519423) ||
+
+COUNT = 4
+144.9519423 -37.78462231 --> Industry (ANZSIC4) code: 4512 || Trading Name: Giraffe Cafe || Location:  (-37.78462231, 144.9519423) ||
+
+COUNT = 4
+144.9519423 -37.78462231 --> Industry (ANZSIC4) code: 4512 || Trading Name: Zoo Bakery || Location:  (-37.78462231, 144.9519423) ||
+
+144.951942 -37.784622 0.000000 --> NOTFOUND
+**********THIS IS A NEW LOCATION**********
+144.973397 -37.829984 0.000000 --> NOTFOUND
+**********THIS IS A NEW LOCATION**********
+144.975350 -37.793269 0.000000 --> NOTFOUND
+./map2 CLUEdata2018_median.csv output2-Median.txt < input2.txt
+**********THIS IS A MAP2 CLOSEST NODE**********
+**********THIS IS A NEW LOCATION**********
+144.957600 -37.827560 0.000000 --> NOTFOUND
+**********THIS IS A NEW LOCATION**********
+COUNT = 7
+144.9566201 -37.79455742 --> Industry (ANZSIC4) code: 5101 || Trading Name: Parkville Post Office || Location:  (-37.79455742, 144.9566201) ||
+
+144.956620 -37.794557 0.000000 --> NOTFOUND
+**********THIS IS A NEW LOCATION**********
+144.951942 -37.784622 0.000000 --> NOTFOUND
+**********THIS IS A NEW LOCATION**********
+144.973397 -37.829984 0.000000 --> NOTFOUND
+**********THIS IS A NEW LOCATION**********
+COUNT = 12
+144.9753504 -37.7932694 --> Industry (ANZSIC4) code: 9411 || Trading Name: Celepci Brothers || Location:  (-37.7932694, 144.9753504) ||
+
+COUNT = 12
+144.9753504 -37.7932694 --> Industry (ANZSIC4) code: 4000 || Trading Name: National Lube Carlton || Location:  (-37.7932694, 144.9753504) ||
+
+144.975350 -37.793269 0.000000 --> NOTFOUND
+./map2 CLUEdata2018_sortx.csv output2-Sortx.txt < input2.txt
+**********THIS IS A MAP2 CLOSEST NODE**********
+**********THIS IS A NEW LOCATION**********
+144.957600 -37.827560 0.000000 --> NOTFOUND
+**********THIS IS A NEW LOCATION**********
+144.956620 -37.794557 0.000000 --> NOTFOUND
+**********THIS IS A NEW LOCATION**********
+144.951942 -37.784622 0.000000 --> NOTFOUND
+**********THIS IS A NEW LOCATION**********
+COUNT = 6
+144.9733972 -37.8299839 --> Industry (ANZSIC4) code: 8910 || Trading Name: Shrine of Rememberance || Location:  (-37.8299839, 144.9733972) ||
+
+144.973397 -37.829984 0.000000 --> NOTFOUND
+**********THIS IS A NEW LOCATION**********
+144.975350 -37.793269 0.000000 --> NOTFOUND
+
+
+
+
+
+./map2 CLUEdata2018_random.csv output2-Random.txt < input2.txt
+**********THIS IS A MAP2 CLOSEST NODE**********
+**********THIS IS A NEW LOCATION**********
+144.957600 -37.827560 0.005000 --> NOTFOUND
+**********THIS IS A NEW LOCATION**********
+144.956620 -37.794557 0.005000 --> NOTFOUND
+**********THIS IS A NEW LOCATION**********
+COUNT = 4
+144.9519423 -37.78462231 --> Industry (ANZSIC4) code: 4511 || Trading Name: Lakeside Bistro And Function Centre || Location:  (-37.78462231, 144.9519423) ||
+
+COUNT = 4
+144.9519423 -37.78462231 --> Industry (ANZSIC4) code: 8921 || Trading Name: Zoos Victoria || Location:  (-37.78462231, 144.9519423) ||
+
+COUNT = 4
+144.9519423 -37.78462231 --> Industry (ANZSIC4) code: 4512 || Trading Name: Plaza Kiosk || Location:  (-37.78462231, 144.9519423) ||
+
+COUNT = 4
+144.9519423 -37.78462231 --> Industry (ANZSIC4) code: 4512 || Trading Name: Village Kiosk || Location:  (-37.78462231, 144.9519423) ||
+
+COUNT = 4
+144.9519423 -37.78462231 --> Industry (ANZSIC4) code: 4512 || Trading Name: Meerkat Manor || Location:  (-37.78462231, 144.9519423) ||
+
+COUNT = 4
+144.9519423 -37.78462231 --> Industry (ANZSIC4) code: 4512 || Trading Name: Wild Dog || Location:  (-37.78462231, 144.9519423) ||
+
+COUNT = 4
+144.9519423 -37.78462231 --> Industry (ANZSIC4) code: 4512 || Trading Name: Giraffe Cafe || Location:  (-37.78462231, 144.9519423) ||
+
+COUNT = 4
+144.9519423 -37.78462231 --> Industry (ANZSIC4) code: 4512 || Trading Name: Zoo Bakery || Location:  (-37.78462231, 144.9519423) ||
+
+144.951942 -37.784622 0.005000 --> NOTFOUND
+**********THIS IS A NEW LOCATION**********
+144.973397 -37.829984 0.005000 --> NOTFOUND
+**********THIS IS A NEW LOCATION**********
+COUNT = 3
+144.9710859 -37.79578991 --> Industry (ANZSIC4) code: 6419 || Trading Name: Cursio Group || Location:  (-37.79578991, 144.9710859) ||
+
+COUNT = 3
+144.9710859 -37.79578991 --> Industry (ANZSIC4) code: 0 || Trading Name: Vacant || Location:  (-37.79578991, 144.9710859) ||
+
+COUNT = 3
+144.9710859 -37.79578991 --> Industry (ANZSIC4) code: 6962 || Trading Name: Grist || Location:  (-37.79578991, 144.9710859) ||
+
+COUNT = 7
+144.9733814 -37.79334724 --> Industry (ANZSIC4) code: 9001 || Trading Name: Melbourne French Theatre Incorporated || Location:  (-37.79334724, 144.9733814) ||
+
+COUNT = 7
+144.9733814 -37.79334724 --> Industry (ANZSIC4) code: 7552 || Trading Name: Consulate of Senegal || Location:  (-37.79334724, 144.9733814) ||
+
+COUNT = 7
+144.9733814 -37.79334724 --> Industry (ANZSIC4) code: 6999 || Trading Name: Corporate language Communications || Location:  (-37.79334724, 144.9733814) ||
+
+COUNT = 7
+144.9733814 -37.79334724 --> Industry (ANZSIC4) code: 6931 || Trading Name: Michael Bula Solicitors || Location:  (-37.79334724, 144.9733814) ||
+
+COUNT = 8
+144.9733888 -37.79303042 --> Industry (ANZSIC4) code: 4520 || Trading Name: Dan O'Connell Hotel || Location:  (-37.79303042, 144.9733888) ||
+
+144.975350 -37.793269 0.005000 --> NOTFOUND
+./map2 CLUEdata2018_median.csv output2-Median.txt < input2.txt
+**********THIS IS A MAP2 CLOSEST NODE**********
+**********THIS IS A NEW LOCATION**********
+144.957600 -37.827560 0.005000 --> NOTFOUND
+**********THIS IS A NEW LOCATION**********
+COUNT = 7
+144.9566201 -37.79455742 --> Industry (ANZSIC4) code: 5101 || Trading Name: Parkville Post Office || Location:  (-37.79455742, 144.9566201) ||
+
+COUNT = 8
+144.9579851 -37.79097116 --> Industry (ANZSIC4) code: 9113 || Trading Name: Parkville Tennis Club || Location:  (-37.79097116, 144.9579851) ||
+
+144.956620 -37.794557 0.005000 --> NOTFOUND
+**********THIS IS A NEW LOCATION**********
+144.951942 -37.784622 0.005000 --> NOTFOUND
+**********THIS IS A NEW LOCATION**********
+144.973397 -37.829984 0.005000 --> NOTFOUND
+**********THIS IS A NEW LOCATION**********
+COUNT = 7
+144.971175 -37.79523237 --> Industry (ANZSIC4) code: 4511 || Trading Name: Bangkok Rain || Location:  (-37.79523237, 144.971175) ||
+
+COUNT = 8
+144.9737282 -37.79606334 --> Industry (ANZSIC4) code: 8710 || Trading Name: Co As It Tomaso Fiaschi Child Care Centre || Location:  (-37.79606334, 144.9737282) ||
+
+COUNT = 9
+144.9733814 -37.79334724 --> Industry (ANZSIC4) code: 9001 || Trading Name: Melbourne French Theatre Incorporated || Location:  (-37.79334724, 144.9733814) ||
+
+COUNT = 9
+144.9733814 -37.79334724 --> Industry (ANZSIC4) code: 7552 || Trading Name: Consulate of Senegal || Location:  (-37.79334724, 144.9733814) ||
+
+COUNT = 9
+144.9733814 -37.79334724 --> Industry (ANZSIC4) code: 6999 || Trading Name: Corporate language Communications || Location:  (-37.79334724, 144.9733814) ||
+
+COUNT = 9
+144.9733814 -37.79334724 --> Industry (ANZSIC4) code: 6931 || Trading Name: Michael Bula Solicitors || Location:  (-37.79334724, 144.9733814) ||
+
+COUNT = 10
+144.9750546 -37.79482768 --> Industry (ANZSIC4) code: 9539 || Trading Name: Starr Personal Training || Location:  (-37.79482768, 144.9750546) ||
+
+COUNT = 11
+144.9751349 -37.79439861 --> Industry (ANZSIC4) code: 3419 || Trading Name: Laco International Pty Ltd || Location:  (-37.79439861, 144.9751349) ||
+
+COUNT = 11
+144.9751349 -37.79439861 --> Industry (ANZSIC4) code: 8539 || Trading Name: Maric Goya Natural Therapies || Location:  (-37.79439861, 144.9751349) ||
+
+COUNT = 11
+144.9751349 -37.79439861 --> Industry (ANZSIC4) code: 4512 || Trading Name: French Lettuce || Location:  (-37.79439861, 144.9751349) ||
+
+COUNT = 12
+144.9753504 -37.7932694 --> Industry (ANZSIC4) code: 9411 || Trading Name: Celepci Brothers || Location:  (-37.7932694, 144.9753504) ||
+
+COUNT = 12
+144.9753504 -37.7932694 --> Industry (ANZSIC4) code: 4000 || Trading Name: National Lube Carlton || Location:  (-37.7932694, 144.9753504) ||
+
+144.975350 -37.793269 0.005000 --> NOTFOUND
+./map2 CLUEdata2018_sortx.csv output2-Sortx.txt < input2.txt
+**********THIS IS A MAP2 CLOSEST NODE**********
+**********THIS IS A NEW LOCATION**********
+144.957600 -37.827560 0.005000 --> NOTFOUND
+**********THIS IS A NEW LOCATION**********
+144.956620 -37.794557 0.005000 --> NOTFOUND
+**********THIS IS A NEW LOCATION**********
+144.951942 -37.784622 0.005000 --> NOTFOUND
+**********THIS IS A NEW LOCATION**********
+COUNT = 6
+144.9733972 -37.8299839 --> Industry (ANZSIC4) code: 8910 || Trading Name: Shrine of Rememberance || Location:  (-37.8299839, 144.9733972) ||
+
+144.973397 -37.829984 0.005000 --> NOTFOUND
+**********THIS IS A NEW LOCATION**********
+144.975350 -37.793269 0.005000 --> NOTFOUND
+
+
+
+
+
+
+./map2 CLUEdata2018_random.csv output2-Random.txt < input2.txt
+**********THIS IS A MAP2 CLOSEST NODE**********
+**********THIS IS A NEW LOCATION**********
+144.957600 -37.827560 0.010000 --> NOTFOUND
+**********THIS IS A NEW LOCATION**********
+COUNT = 2
+144.9516995 -37.79653566 --> Industry (ANZSIC4) code: 8512 || Trading Name: The Royal Children's Hostipal Foundation || Location:  (-37.79653566, 144.9516995) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 4511 || Trading Name: Parkville Cafe || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 4511 || Trading Name: Aruba Espresso Cafe || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 9511 || Trading Name: Green Bamboo Massage || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 0 || Trading Name: Vacant || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 8710 || Trading Name: Bambini Early Learning Centre || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 4511 || Trading Name: Smith And Singleton || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 4243 || Trading Name: Australian Geographic || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 0 || Trading Name: Vacant || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 4511 || Trading Name: McDonalds Royal Children's Hospital || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 8512 || Trading Name: Melbourne Heart Clinic for Kids || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 4511 || Trading Name: Sandrock || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 8512 || Trading Name: Paediatric Gastroenterology Victoria || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 0 || Trading Name: Vacant || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 4110 || Trading Name: Rainbow || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 8512 || Trading Name: Mr Tom Clarnette/Associate David Orchard || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 8401 || Trading Name: The Royal Children's Hospital || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 8512 || Trading Name: LAC-CON Neurosugery || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 8512 || Trading Name: Prof Margaret R Zacharin || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 4110 || Trading Name: Royal Supermarket || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 8101 || Trading Name: Zoi Education Pty Ltd || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 8512 || Trading Name: The Childrens Private Medical Group Pty Ltd || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 9511 || Trading Name: Salon Royale || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 4512 || Trading Name: Boost Juice || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 8512 || Trading Name: Specialists At The Kids || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 4512 || Trading Name: Three Pandas Dumpling HOuse || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 8512 || Trading Name: Mr Joseph Crameri || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 9131 || Trading Name: Saferi Rides || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 0 || Trading Name: Vacant || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 0 || Trading Name: Vacant || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 4512 || Trading Name: Quando Cafe || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 8512 || Trading Name: ENT Parkville At The Kids || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 4243 || Trading Name: Retro Wolf || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 8512 || Trading Name: Mr Paulo Selber/Dr Elizabeth McLeod || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 8512 || Trading Name: Russell G Taylor Pty Ltd || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 4279 || Trading Name: Gorgeous Collection || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 8512 || Trading Name: Eye Services Parkville Pty Ltd || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 4400 || Trading Name: The Larwill Studio || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 4271 || Trading Name: Wood Pharamacy || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 4511 || Trading Name: Subway || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 9559 || Trading Name: The Royal Children's Hospital Foundation Limited || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 4511 || Trading Name: Shuji Sushi || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 8512 || Trading Name: MACCS Medical Group Pty Ltd || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 9111 || Trading Name: Insideout Performance || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 4274 || Trading Name: Royal Flowers And Gift || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 4279 || Trading Name: RCH Shop and Kids Health Information Bookshop || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 4511 || Trading Name: Degani Bakery Cafe || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 8512 || Trading Name: Royal Children's Hospital Education Institute Ltd || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 0 || Trading Name: Vacant || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 6221 || Trading Name: BankVic || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 8512 || Trading Name: RCH Pathology || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 4512 || Trading Name: Trampoline || Location:  (-37.7938185, 144.9495226) ||
+
+144.956620 -37.794557 0.010000 --> NOTFOUND
+**********THIS IS A NEW LOCATION**********
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 4511 || Trading Name: Parkville Cafe || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 4511 || Trading Name: Aruba Espresso Cafe || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 9511 || Trading Name: Green Bamboo Massage || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 0 || Trading Name: Vacant || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 8710 || Trading Name: Bambini Early Learning Centre || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 4511 || Trading Name: Smith And Singleton || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 4243 || Trading Name: Australian Geographic || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 0 || Trading Name: Vacant || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 4511 || Trading Name: McDonalds Royal Children's Hospital || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 8512 || Trading Name: Melbourne Heart Clinic for Kids || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 4511 || Trading Name: Sandrock || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 8512 || Trading Name: Paediatric Gastroenterology Victoria || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 0 || Trading Name: Vacant || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 4110 || Trading Name: Rainbow || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 8512 || Trading Name: Mr Tom Clarnette/Associate David Orchard || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 8401 || Trading Name: The Royal Children's Hospital || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 8512 || Trading Name: LAC-CON Neurosugery || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 8512 || Trading Name: Prof Margaret R Zacharin || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 4110 || Trading Name: Royal Supermarket || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 8101 || Trading Name: Zoi Education Pty Ltd || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 8512 || Trading Name: The Childrens Private Medical Group Pty Ltd || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 9511 || Trading Name: Salon Royale || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 4512 || Trading Name: Boost Juice || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 8512 || Trading Name: Specialists At The Kids || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 4512 || Trading Name: Three Pandas Dumpling HOuse || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 8512 || Trading Name: Mr Joseph Crameri || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 9131 || Trading Name: Saferi Rides || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 0 || Trading Name: Vacant || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 0 || Trading Name: Vacant || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 4512 || Trading Name: Quando Cafe || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 8512 || Trading Name: ENT Parkville At The Kids || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 4243 || Trading Name: Retro Wolf || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 8512 || Trading Name: Mr Paulo Selber/Dr Elizabeth McLeod || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 8512 || Trading Name: Russell G Taylor Pty Ltd || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 4279 || Trading Name: Gorgeous Collection || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 8512 || Trading Name: Eye Services Parkville Pty Ltd || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 4400 || Trading Name: The Larwill Studio || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 4271 || Trading Name: Wood Pharamacy || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 4511 || Trading Name: Subway || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 9559 || Trading Name: The Royal Children's Hospital Foundation Limited || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 4511 || Trading Name: Shuji Sushi || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 8512 || Trading Name: MACCS Medical Group Pty Ltd || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 9111 || Trading Name: Insideout Performance || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 4274 || Trading Name: Royal Flowers And Gift || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 4279 || Trading Name: RCH Shop and Kids Health Information Bookshop || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 4511 || Trading Name: Degani Bakery Cafe || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 8512 || Trading Name: Royal Children's Hospital Education Institute Ltd || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 0 || Trading Name: Vacant || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 6221 || Trading Name: BankVic || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 8512 || Trading Name: RCH Pathology || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 3
+144.9495226 -37.7938185 --> Industry (ANZSIC4) code: 4512 || Trading Name: Trampoline || Location:  (-37.7938185, 144.9495226) ||
+
+COUNT = 4
+144.9519423 -37.78462231 --> Industry (ANZSIC4) code: 4511 || Trading Name: Lakeside Bistro And Function Centre || Location:  (-37.78462231, 144.9519423) ||
+
+COUNT = 4
+144.9519423 -37.78462231 --> Industry (ANZSIC4) code: 8921 || Trading Name: Zoos Victoria || Location:  (-37.78462231, 144.9519423) ||
+
+COUNT = 4
+144.9519423 -37.78462231 --> Industry (ANZSIC4) code: 4512 || Trading Name: Plaza Kiosk || Location:  (-37.78462231, 144.9519423) ||
+
+COUNT = 4
+144.9519423 -37.78462231 --> Industry (ANZSIC4) code: 4512 || Trading Name: Village Kiosk || Location:  (-37.78462231, 144.9519423) ||
+
+COUNT = 4
+144.9519423 -37.78462231 --> Industry (ANZSIC4) code: 4512 || Trading Name: Meerkat Manor || Location:  (-37.78462231, 144.9519423) ||
+
+COUNT = 4
+144.9519423 -37.78462231 --> Industry (ANZSIC4) code: 4512 || Trading Name: Wild Dog || Location:  (-37.78462231, 144.9519423) ||
+
+COUNT = 4
+144.9519423 -37.78462231 --> Industry (ANZSIC4) code: 4512 || Trading Name: Giraffe Cafe || Location:  (-37.78462231, 144.9519423) ||
+
+COUNT = 4
+144.9519423 -37.78462231 --> Industry (ANZSIC4) code: 4512 || Trading Name: Zoo Bakery || Location:  (-37.78462231, 144.9519423) ||
+
+144.951942 -37.784622 0.010000 --> NOTFOUND
+**********THIS IS A NEW LOCATION**********
+144.973397 -37.829984 0.010000 --> NOTFOUND
+**********THIS IS A NEW LOCATION**********
+COUNT = 3
+144.9710859 -37.79578991 --> Industry (ANZSIC4) code: 6419 || Trading Name: Cursio Group || Location:  (-37.79578991, 144.9710859) ||
+
+COUNT = 3
+144.9710859 -37.79578991 --> Industry (ANZSIC4) code: 0 || Trading Name: Vacant || Location:  (-37.79578991, 144.9710859) ||
+
+COUNT = 3
+144.9710859 -37.79578991 --> Industry (ANZSIC4) code: 6962 || Trading Name: Grist || Location:  (-37.79578991, 144.9710859) ||
+
+COUNT = 7
+144.9733814 -37.79334724 --> Industry (ANZSIC4) code: 9001 || Trading Name: Melbourne French Theatre Incorporated || Location:  (-37.79334724, 144.9733814) ||
+
+COUNT = 7
+144.9733814 -37.79334724 --> Industry (ANZSIC4) code: 7552 || Trading Name: Consulate of Senegal || Location:  (-37.79334724, 144.9733814) ||
+
+COUNT = 7
+144.9733814 -37.79334724 --> Industry (ANZSIC4) code: 6999 || Trading Name: Corporate language Communications || Location:  (-37.79334724, 144.9733814) ||
+
+COUNT = 7
+144.9733814 -37.79334724 --> Industry (ANZSIC4) code: 6931 || Trading Name: Michael Bula Solicitors || Location:  (-37.79334724, 144.9733814) ||
+
+COUNT = 8
+144.9733888 -37.79303042 --> Industry (ANZSIC4) code: 4520 || Trading Name: Dan O'Connell Hotel || Location:  (-37.79303042, 144.9733888) ||
+
+144.975350 -37.793269 0.005000 --> NOTFOUND
+./map2 CLUEdata2018_median.csv output2-Median.txt < input2.txt
+**********THIS IS A MAP2 CLOSEST NODE**********
+**********THIS IS A NEW LOCATION**********
+COUNT = 1
+144.9594961 -37.82059787 --> Industry (ANZSIC4) code: 8921 || Trading Name: Sea Life Melbourne Aquarium || Location:  (-37.82059787, 144.9594961) ||
+
+**********THIS IS A NEW LOCATION**********
+COUNT = 5
+144.9516995 -37.79653566 --> Industry (ANZSIC4) code: 8512 || Trading Name: The Royal Children's Hostipal Foundation || Location:  (-37.79653566, 144.9516995) ||
+
+COUNT = 6
+144.9535424 -37.80000108 --> Industry (ANZSIC4) code: 9551 || Trading Name: The Royal Australian Chemical Institute || Location:  (-37.80000108, 144.9535424) ||
+
+COUNT = 6
+144.9535424 -37.80000108 --> Industry (ANZSIC4) code: 9551 || Trading Name: Victorian Principals || Location:  (-37.80000108, 144.9535424) ||
+
+COUNT = 6
+144.9535424 -37.80000108 --> Industry (ANZSIC4) code: 6932 || Trading Name: DNM Group || Location:  (-37.80000108, 144.9535424) ||
+
+COUNT = 6
+144.9535424 -37.80000108 --> Industry (ANZSIC4) code: 7299 || Trading Name: United Innkeeper Association || Location:  (-37.80000108, 144.9535424) ||
+
+COUNT = 6
+144.9535424 -37.80000108 --> Industry (ANZSIC4) code: 9559 || Trading Name: Health Informatics Society Of Australia Limited || Location:  (-37.80000108, 144.9535424) ||
+
+COUNT = 7
+144.9566201 -37.79455742 --> Industry (ANZSIC4) code: 5101 || Trading Name: Parkville Post Office || Location:  (-37.79455742, 144.9566201) ||
+
+COUNT = 8
+144.9579851 -37.79097116 --> Industry (ANZSIC4) code: 9113 || Trading Name: Parkville Tennis Club || Location:  (-37.79097116, 144.9579851) ||
+
+COUNT = 9
+144.9583973 -37.78628867 --> Industry (ANZSIC4) code: 0 || Trading Name: Vacant || Location:  (-37.78628867, 144.9583973) ||
+
+144.956620 -37.794557 0.010000 --> NOTFOUND
+**********THIS IS A NEW LOCATION**********
+144.951942 -37.784622 0.010000 --> NOTFOUND
+**********THIS IS A NEW LOCATION**********
+144.973397 -37.829984 0.010000 --> NOTFOUND
+**********THIS IS A NEW LOCATION**********
+COUNT = 7
+144.971175 -37.79523237 --> Industry (ANZSIC4) code: 4511 || Trading Name: Bangkok Rain || Location:  (-37.79523237, 144.971175) ||
+
+COUNT = 8
+144.9737282 -37.79606334 --> Industry (ANZSIC4) code: 8710 || Trading Name: Co As It Tomaso Fiaschi Child Care Centre || Location:  (-37.79606334, 144.9737282) ||
+
+COUNT = 9
+144.9733814 -37.79334724 --> Industry (ANZSIC4) code: 9001 || Trading Name: Melbourne French Theatre Incorporated || Location:  (-37.79334724, 144.9733814) ||
+
+COUNT = 9
+144.9733814 -37.79334724 --> Industry (ANZSIC4) code: 7552 || Trading Name: Consulate of Senegal || Location:  (-37.79334724, 144.9733814) ||
+
+COUNT = 9
+144.9733814 -37.79334724 --> Industry (ANZSIC4) code: 6999 || Trading Name: Corporate language Communications || Location:  (-37.79334724, 144.9733814) ||
+
+COUNT = 9
+144.9733814 -37.79334724 --> Industry (ANZSIC4) code: 6931 || Trading Name: Michael Bula Solicitors || Location:  (-37.79334724, 144.9733814) ||
+
+COUNT = 10
+144.9750546 -37.79482768 --> Industry (ANZSIC4) code: 9539 || Trading Name: Starr Personal Training || Location:  (-37.79482768, 144.9750546) ||
+
+COUNT = 11
+144.9751349 -37.79439861 --> Industry (ANZSIC4) code: 3419 || Trading Name: Laco International Pty Ltd || Location:  (-37.79439861, 144.9751349) ||
+
+COUNT = 11
+144.9751349 -37.79439861 --> Industry (ANZSIC4) code: 8539 || Trading Name: Maric Goya Natural Therapies || Location:  (-37.79439861, 144.9751349) ||
+
+COUNT = 11
+144.9751349 -37.79439861 --> Industry (ANZSIC4) code: 4512 || Trading Name: French Lettuce || Location:  (-37.79439861, 144.9751349) ||
+
+COUNT = 12
+144.9753504 -37.7932694 --> Industry (ANZSIC4) code: 9411 || Trading Name: Celepci Brothers || Location:  (-37.7932694, 144.9753504) ||
+
+COUNT = 12
+144.9753504 -37.7932694 --> Industry (ANZSIC4) code: 4000 || Trading Name: National Lube Carlton || Location:  (-37.7932694, 144.9753504) ||
+
+144.975350 -37.793269 0.005000 --> NOTFOUND
+./map2 CLUEdata2018_sortx.csv output2-Sortx.txt < input2.txt
+**********THIS IS A MAP2 CLOSEST NODE**********
+**********THIS IS A NEW LOCATION**********
+144.957600 -37.827560 0.010000 --> NOTFOUND
+**********THIS IS A NEW LOCATION**********
+144.956620 -37.794557 0.010000 --> NOTFOUND
+**********THIS IS A NEW LOCATION**********
+144.951942 -37.784622 0.010000 --> NOTFOUND
+**********THIS IS A NEW LOCATION**********
+COUNT = 5
+144.9679586 -37.82998243 --> Industry (ANZSIC4) code: 4511 || Trading Name: Manchipster Fish And Burger Bar || Location:  (-37.82998243, 144.9679586) ||
+
+COUNT = 5
+144.9679586 -37.82998243 --> Industry (ANZSIC4) code: 4511 || Trading Name: Restuarant Ayams Chef || Location:  (-37.82998243, 144.9679586) ||
+
+COUNT = 6
+144.9733972 -37.8299839 --> Industry (ANZSIC4) code: 8910 || Trading Name: Shrine of Rememberance || Location:  (-37.8299839, 144.9733972) ||
+
+144.973397 -37.829984 0.010000 --> NOTFOUND
+**********THIS IS A NEW LOCATION**********
+144.975350 -37.793269 0.005000 --> NOTFOUND
